@@ -1,0 +1,12 @@
+{
+  "flumeAddr": "192.168.21.20",
+  "machineStatusPath": "/opt/intellij_workspace/fakenode/data/linux_agent/conf/linuxMachineStatus.json",
+  "localThriftServerPort": 9996,
+  "flumeBatchSize": 100,
+  "machineConfigPath": "/opt/intellij_workspace/fakenode/data/linux_agent/conf/remoteLinuxConfig.json",
+  "readConfSeconds": 3,
+  "sshdNumThreshold": 30,
+  "sendCacheSize": 1000,
+  "flumePort": 5858,
+  "log4jConfPath": "/opt/intellij_workspace/fakenode/data/linux_agent/conf/log4j.properties"
+}
